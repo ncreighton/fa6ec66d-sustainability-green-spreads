@@ -1,2 +1,25 @@
-# fa6ec66d-sustainability-green-spreads
-starting from a blank document every single time costs you real money. This digital template pays for itself in one use.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Sustainability &amp; Green Spreadsheet Calculator — fully configured and ready to use
+# Sustainability & Green Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x228r6mX7EoaNOfQ8cZr0c)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x228r6mX7EoaNOfQ8cZr0c)
+
